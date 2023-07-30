@@ -1,5 +1,4 @@
 extends Area2D
-extends Tile
 
 
 # Declare member variables here. Examples:
